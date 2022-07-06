@@ -1,0 +1,58 @@
+ body, html {
+        height: 100%;
+    } 
+ .background-pic{
+         background-image: url(img/Los_Angeles.jpg);
+         height: 100%;
+         background-position: center;
+         background-repeat: no-repeat;
+         background-size: cover;
+ }
+
+ .background-pic-about{
+        background-image: url(img/space.jpg);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+ }
+
+ .background-pic-inv{
+        background-image: url(img/california.jpg);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+ }
+
+ .navbar-brand{
+         background-image:url(logo.png);
+ }
+ 
+.personal{
+        background-color: #343A40;
+        border-radius: 10%;
+        padding: 5%;
+}
+ .social a{
+         font-size: 50px;
+         padding:15px;
+ }
+
+ .fa-instagram{
+         color: purple;
+ }
+
+ .fa-linkedin{
+         color: blue;
+ }
+
+ .test{
+         padding-left: 35%;
+         padding-right: 35%;
+ }
+
+ .margin-home{
+        margin-top: 15%;
+}
